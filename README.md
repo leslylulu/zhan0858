@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhan0858
+- 👋 Hi, I’m Lulu
 - 👀 I’m interested in eatting
 - 🌱 I’m currently learning MADD
 

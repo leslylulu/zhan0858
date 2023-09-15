@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lulu
-- 👀 I’m interested in eatting
+- 👀 My hobbies are eating, drinking, staying up late and sleeping in.
 - 🌱 I’m currently learning MADD
 
 <!---

@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/lesly1995" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/lesly1995?logo=twitter&style=for-the-badge" alt="https://twitter.com/lesly1995" /></a> </p>
 
-- 🔭 I’m currently working on [javascript learning](https://github.com/zhan0858/mad9014-learing)
+-   🔭 I’m currently working on [javascript learning](https://github.com/zhan0858/mad9014-learing)
 
-- 🌱 I’m currently learning **nodejs,**
+-   🌱 I’m currently learning **nodejs,**
 
-- 👯 I’m looking to collaborate on **frontend developer**
+-   👯 I’m looking to collaborate on **frontend developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zhan0858?tab=repositories](https://github.com/zhan0858?tab=repositories)
+-   👨‍💻 All of my projects are available at [https://github.com/zhan0858?tab=repositories](https://github.com/zhan0858?tab=repositories)
 
-- 📝 I regularly write articles on [https://leslylulu.github.io/#/front/demo](https://leslylulu.github.io/#/front/demo)
+-   📝 I regularly write articles on [https://leslylulu.github.io/#/front/demo](https://leslylulu.github.io/#/front/demo)
 
-- 💬 Ask me about **react, vue, redux, html, css, js**
+-   💬 Ask me about **react, vue, redux, html, css, js**
 
-- 📫 How to reach me **dearlulu1995@gmail.com**
+-   📫 How to reach me **dearlulu1995@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+-   ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,3 +37,24 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zhan0858&show_icons=true&locale=en" alt="zhan0858" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhan0858&" alt="zhan0858" /></p>
+
+## I am a heading 2
+
+1. apple
+2. banana
+3. orange
+4. pear
+5. watermelon
+
+```js
+function addTwoNumbers(a, b) {
+	return a + b;
+}
+addTwoNumbers(1, 2);
+```
+
+1. [apple](https://www.apple.com/ca/store?afid=p238%7CsEnMtlDRF-dc_mtid_1870765e38482_pcrid_680881023797_pgrid_39429562932_pntwk_g_pchan__pexid__&cid=aos-ca-kwGO-brand--slid---product-)
+2. [banana](https://bananarepublic.gapcanada.ca/?tid=bcps000225&kwid=1&ap=7&gad_source=1&gclid=CjwKCAiAvJarBhA1EiwAGgZl0Pwtp2drxBXTIfssAS9NUJmfSAVsw0iYESU3tkSTDq8aUl9jvtfcORoCvVQQAvD_BwE&gclsrc=aw.ds)
+3. [orange](https://www.orange.com/en)
+
+![image](https://images.unsplash.com/photo-1699619093007-c4fb05dcdd0f?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0fHx8ZW58MHx8fHx8)
